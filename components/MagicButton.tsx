@@ -2,7 +2,7 @@ import React from "react";
 
 /**
  *  UI: border magic from tailwind css btns
- *  Link: https://ui.aceternity.com/components/tailwindcss-buttons
+ *  Link: https://components/tailwindcss-buttons
  *
  *  change border radius to rounded-lg
  *  add margin of md:mt-10

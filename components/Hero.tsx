@@ -9,7 +9,7 @@ const Hero = () => {
     <div className="pb-20 pt-36">
       {/**
        *  UI: Spotlights
-       *  Link: https://ui.aceternity.com/components/spotlight
+       *  Link: https://components/spotlight
        */}
       <div>
         <Spotlight
@@ -47,7 +47,7 @@ const Hero = () => {
           </p>
 
           {/**
-           *  Link: https://ui.aceternity.com/components/text-generate-effect
+           *  Link: https://components/text-generate-effect
            *
            *  change md:text-6xl, add more responsive code
            */}
